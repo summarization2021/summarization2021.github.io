@@ -15,11 +15,14 @@ author: Yue Dong
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  ORGANIZATION: "organization"
+  CALL FOR PAPERS: "callforpapers"
+  SUBMISSION: "submission"
+  IMPORTANT DATES: "importantdates"
+  SCHEDULE: "schedule"
+  INVITED SPEAKERS: "invitedspeakers"
+  ACCEPTED PAPERS: "acceptedpapers"
+  
 
 # --- Logo --- #
 
