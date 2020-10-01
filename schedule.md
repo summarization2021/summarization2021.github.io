@@ -12,7 +12,7 @@ Note: For presentation format, each long talk is 12 minutes plus 2 minutes QA, a
 |08:50 – 10:40|	**Morning Session 1**|
 |08:50 – 09:00|	Opening Remarks|
 |09:00 - 09:50|	Invited Talk 1|
-|09:50 - 10:40|	Paper Presentations|
+|09:50 - 10:40|	Paper Presentations 1|
 |10:40 - 11:00|	Break|
 |11:00 – 12:30|**Morning Session 2**|
 |11:00 - 11:50|	Invited Talk 2|
