@@ -1,7 +1,3 @@
 #### Invited Talks
 
-%- Nanyun Peng (USC ISI)
-%Title: Creative Generation as Inverse Summarization
-%Abstract: Recent advances in data-driven approaches have demonstrated appealing results in generating natural languages in applications like machine translation and summarization. However, when the generation tasks are open-ended and the content is under-specified, existing techniques struggle to demonstrate coherence and creativity in writing. This happens because the generation models are trained to model the surface form (i.e. sequences of words), rather than the more advanced semantics and discourse structures. Moreover, composing creative pieces such as puns, poems, and stories require deviating from the norm, whereas existing generation approaches seek to mimic the norm and thus are unlikely to lead to truly novel, creative composition. In this talk, I will talk about several works done by my group and collaborators on creative story and pun generation. We emphasize the importance of understanding the semantics and discourse structures of stories and puns to achieve coherent and creative generation.
-Bio: Nanyun Peng is a Research Assistant Professor at the University of Southern California Computer Science Department, and a Research Lead at the USC Information Sciences Institute. She received a Ph.D. from Johns Hopkins University the Center for Language and Speech Processing. Her research focuses on creative language generation, robustness and generalizability of natural language understanding. She has published more than 30 papers in top NLP/AI conferences such as ACL, EMNLP, AAAI, TACL. Her research has been funded by several DARPA, IARPA, and NIH awards.
-
+Will be annouced soon!
