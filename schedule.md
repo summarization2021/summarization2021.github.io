@@ -6,11 +6,7 @@ Date: November 7, 2021
 
 Note: For presentation format, each long talk is 12 minutes plus 2 minutes QA, and each short talk is 10 minutes plus 2 minutes QA.
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+
 |Time	|Content|
 | ------------- |:-------------:|
 |08:50 – 10:40|	Morning Session 1|
