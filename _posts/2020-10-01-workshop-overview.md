@@ -1,3 +1,13 @@
+---
+layout: post
+title: Workshop Overview 
+subtitle: Workshop Overview 
+<!--- cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: [books, test] ---> 
+---
+
 #### Overview
 Can intelligent systems be devised to create concise, fluent, and accurate summaries from vast amounts of data? Researchers have strived to achieve this goal in the past fifty years, starting from the seminal work of Luhn (1958) on automatic text summarization. Existing research includes the development of extractive and abstractive summarization technologies, evaluation metrics (e.g., ROUGE and Pyramid), as well as the construction of benchmark datasets and resources (e.g., annual competitions such as DUC (2001-2007), TAC (2008-2011), and TREC (2014-2016 on Microblog/Temporal Summarization)).
 
