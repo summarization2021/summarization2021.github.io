@@ -1,0 +1,1 @@
+Depending on the global COVID situation, we will adapt the workshop to a virtual format as necessary by measures such as remote viewership of talks, online chats, and informal discussion/gathering through Gather.town. Our workshop can be held 100% online if needed.
