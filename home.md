@@ -25,6 +25,6 @@ The goal for this workshop is to provide a research forum for cross-fertilizatio
 - [Yue Dong](https://www.cs.mcgill.ca/~ydong26/) (McGill University, Canada)
 
 #### Contact
-Should you have any question or suggestion, please feel free to send emails to luwang@ccs.neu.edu (Lu Wang).
+Should you have any question or suggestion, please feel free to send emails to yue.dong2@mail.mcgill.ca (Yue Dong).
 
 This workshop follows [ACL Anti-Harassment Policy](http://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy).
