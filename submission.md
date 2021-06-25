@@ -2,7 +2,7 @@
 
 Both long paper (8 pages with unlimited reference) and short paper (4 pages with unlimited reference) are welcomed for submission! Supplementary and appendices (either as separate files or appended after the main submission) are NOT allowed. 
 
-NewSum 2021 will allow double submission as long as the author makes a decision before camera-ready. We will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to NewSum 2021 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results.
+NewSum 2021 will allow double submission as long as the authors make a decision before camera-ready. We will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to NewSum 2021 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results.
 
 
 
