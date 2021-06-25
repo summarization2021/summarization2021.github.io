@@ -1,6 +1,8 @@
 #### Submission
 
-Both long paper (eight (8) pages with unlimited reference) and short paper (four (4) pages with unlimited reference) are welcomed for submission! Supplementary and appendices (either as separate files or appended after the main submission) are NOT allowed.
+Both long paper (eight (8) pages with unlimited reference) and short paper (four (4) pages with unlimited reference) are welcomed for submission! Supplementary and appendices (either as separate files or appended after the main submission) are NOT allowed. NewSum 2021 will allow double submission as long as the author makes a decision before camera-ready. We will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to EMNLP 2021 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results.
+
+
 
 For the workshop this year, we are experimenting with a new reviewing model, where reviews and review quality ratings (link to the questionnaire for reviewers, link to the questionnaire for authors) will be collected for a research project (by Northeastern University and OpenReview) on peer review quality analysis.
 
@@ -17,5 +19,5 @@ If you have any concern or question, please do not hesitate to contact [Lu Wang]
 
 #### Submission URLs
 
-- START (for initial submission and camera-ready): https://www.softconf.com/emnlp2021/ws-NEWSUM/
-- OpenReview (for initial submission only): https://openreview.net/group?id=EMNLP/2021/Workshop/Summarization
+- START (for initial submission and camera-ready): (https://www.softconf.com/emnlp2021/ws-NEWSUM/)
+- OpenReview (for initial submission only): (https://openreview.net/group?id=EMNLP/2021/Workshop/Summarization)
