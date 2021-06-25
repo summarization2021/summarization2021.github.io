@@ -6,7 +6,7 @@ NewSum 2021 will allow double submission as long as the authors make a decision 
 
 
 
-For the workshop this year, we are experimenting with a new reviewing model, where reviews and review quality ratings (link to the questionnaire for reviewers, link to the questionnaire for authors) will be collected for a research project (by Northeastern University and OpenReview) on peer review quality analysis.
+For the workshop this year, we are experimenting with a new reviewing model, where reviews and review quality ratings will be collected for a research project (by Northeastern University and OpenReview) on peer review quality analysis.
 
 To achieve this goal, two review systems will be used: [START](https://www.softconf.com/emnlp2021/ws-NEWSUM/) and [OpenReview](https://openreview.net/group?id=EMNLP/2021/Workshop/Summarization). Here is a quick breakdown of the process:
 
