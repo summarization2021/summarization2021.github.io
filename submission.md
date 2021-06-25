@@ -1,6 +1,8 @@
 #### Submission
 
-Both long paper (eight (8) pages with unlimited reference) and short paper (four (4) pages with unlimited reference) are welcomed for submission! Supplementary and appendices (either as separate files or appended after the main submission) are NOT allowed. NewSum 2021 will allow double submission as long as the author makes a decision before camera-ready. We will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to NewSum 2021 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results.
+Both long paper (eight (8) pages with unlimited reference) and short paper (four (4) pages with unlimited reference) are welcomed for submission! Supplementary and appendices (either as separate files or appended after the main submission) are NOT allowed. 
+
+NewSum 2021 will allow double submission as long as the author makes a decision before camera-ready. We will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to NewSum 2021 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results.
 
 
 
@@ -15,9 +17,9 @@ To achieve this goal, two review systems will be used: [START](https://www.softc
 
 All collected data (anonymous reviews and review quality ratings, not including submissions) will be used for research purpose only, and we may release the dataset to the broader research community in the future (at least 6 months after the decisions are made). Authors are encouraged, but not required, to provide review quality ratings. Authors have the right to exclude data associated with their submission from the released dataset (can be indicated upon submission). Here is a sample of data to be collected [from authors](https://drive.google.com/file/d/1d-ZVwUk-CGgrfiltKvUxbjS1itjoJW7v/view), and [from reviewers](https://drive.google.com/file/d/1zcqStq8Af8X-0V_tFwKK1lnrlM4EXtel/view).
 
-If you have any concern or question, please do not hesitate to contact [Lu Wang](https://www.ccs.neu.edu/home/luwang/) at luwang@ccs.neu.edu.
+If you have any concern or question, please do not hesitate to contact [Lu Wang](https://www.ccs.neu.edu/home/luwang/).
 
 #### Submission URLs
 
-- START (for initial submission and camera-ready): (https://www.softconf.com/emnlp2021/ws-NEWSUM/)
-- OpenReview (for initial submission only): (https://openreview.net/group?id=EMNLP/2021/Workshop/Summarization)
+- START (for initial submission and camera-ready): [START](https://www.softconf.com/emnlp2021/ws-NEWSUM/)
+- OpenReview (for initial submission only): [OpenReview](https://openreview.net/group?id=EMNLP/2021/Workshop/Summarization)
